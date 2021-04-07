@@ -1,21 +1,12 @@
 <?php
-/**
-* DS: Product Blog
-*
-* NOTICE OF LICENSE
-*
-* This source file is subject to the Open Software License (OSL 3.0)
-* that is bundled with this package in the file LICENSE.txt.
-* It is also available through the world-wide-web at this URL:
-* http://opensource.org/licenses/osl-3.0.php
-*
-* @author    DS: Product Blog
-* @copyright Copyright 2020 © Dark-Side.pro All right reserved
-* @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
-* @category  Dark-Side.pro
-* @package   dsblog
-*/
-
+/*
+ * ----------------------------------------------------------------------------
+ * "THE BEER-WARE LICENSE" (Revision 42):
+ * <DARK SIDE TEAM> wrote this file. As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp
+ * ----------------------------------------------------------------------------
+ */
 
 // modules/yourmodule/src/Entity/ProductComment.php
 namespace DarkBlog\Entity;
