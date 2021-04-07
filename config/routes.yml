@@ -1,0 +1,5 @@
+your_route_name:
+    path: dark-blog/demo
+    methods: [GET]
+    defaults:
+      _controller: 'DarkBlog\Controller\DemoController::demoAction'

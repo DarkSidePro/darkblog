@@ -1,0 +1,14 @@
+{
+    "name": "you/dark-blog",
+    "description": "...",
+    "autoload": {
+        "psr-4": {
+          "DarkBlog\\Controller\\": "src/Controller/"
+        }
+    },
+    "config": {
+        "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+    
+}
